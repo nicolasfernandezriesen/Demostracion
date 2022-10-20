@@ -20,7 +20,10 @@ namespace WindowsLab
         #region metodos
         private void indenEdad(int edad)
         {
-
+            if(edad == 0)
+            {
+                MessageBox.Show("");
+            }
         }
         #endregion
     }
