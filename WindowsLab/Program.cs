@@ -16,7 +16,7 @@ namespace WindowsLab
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmCaso7());
+            Application.Run(new FrmCaso8());
         }
     }
 }
