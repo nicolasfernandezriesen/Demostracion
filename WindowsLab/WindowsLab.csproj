@@ -59,6 +59,12 @@
     <Compile Include="FrmCaso10.Designer.cs">
       <DependentUpon>FrmCaso10.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmCaso11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCaso11.Designer.cs">
+      <DependentUpon>FrmCaso11.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmCaso2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +120,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmCaso10.resx">
       <DependentUpon>FrmCaso10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCaso11.resx">
+      <DependentUpon>FrmCaso11.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmCaso2.resx">
       <DependentUpon>FrmCaso2.cs</DependentUpon>
